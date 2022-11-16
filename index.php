@@ -104,18 +104,8 @@ if(isset($_POST['submit'])){
 
     
 ?>
-<style>
-    .footer{
-        position: absolute;
-        bottom: 0;
-        text-align: center;
-        width: 100%;cursor: pointer;
-    }
-</style>
-<div class="footer" onclick="myFunction()">
-<footer>
-<p style="text-align: center;color: rgba(0, 0, 0, 0.493);" onclick="myFunction()">&copy; <script>document.write(new Date().getFullYear())</script> Vilas Hegde All Rights Reserved</p>
-</footer>
+
+
     <script>
 function myFunction() {
   let text;
