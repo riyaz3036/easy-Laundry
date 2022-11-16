@@ -123,7 +123,7 @@ while($row=mysqli_fetch_array($emp)){
 
 
 ?>
-<?php include('footer.php'); ?>
+
 
 </body>
 </html>
