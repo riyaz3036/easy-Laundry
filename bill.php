@@ -159,7 +159,7 @@ while($row=mysqli_fetch_array($bill)){
     font-weight: 900;
   }
 </style>
-<?php include('footer.php'); ?>
+
 
 </body>
 </html>
