@@ -199,7 +199,5 @@ window.location.href='customer.php';
 
 ?>
 
-<?php include('footer.php'); ?>
-
   </body>
 </html>
